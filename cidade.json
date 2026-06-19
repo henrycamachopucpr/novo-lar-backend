@@ -1,0 +1,27 @@
+[
+    {
+        "idCidade": 1,
+        "nome": "Curitiba",
+        "estado": "Parana"
+    },
+    {
+        "idCidade": 2,
+        "nome": "Cascavel",
+        "estado": "Parana"
+    },
+    {
+        "idCidade": 3,
+        "nome": "Toledo",
+        "estado": "Parana"
+    },
+    {
+        "idCidade": 4,
+        "nome": "Cascavel",
+        "estado": "Parana"
+    },
+    {
+        "idCidade": 10,
+        "nome": "Foz do Iguacu",
+        "estado": "Parana"
+    }
+]
