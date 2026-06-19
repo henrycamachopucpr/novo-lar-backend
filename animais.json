@@ -1,0 +1,67 @@
+[
+    {
+        "idAnimal": 2,
+        "nome": "Maia",
+        "idade": 3,
+        "raca": "Vira lata",
+        "especie": "Gato",
+        "cor": "preta",
+        "sexo": "Femea",
+        "porte": "Pequeno",
+        "imagem": "https://images.unsplash.com/photo-1574158622682-e40e69881006?w=600&auto=format&fit=crop"
+    },
+    {
+        "idAnimal": 3,
+        "nome": "lala",
+        "idade": 3,
+        "raca": "Vira lata",
+        "especie": "Cachorro",
+        "cor": "Marrom/Laranja",
+        "sexo": "Macho",
+        "porte": "Pequeno",
+        "imagem": "https://images.unsplash.com/photo-1543466835-00a7907e9de1?w=600&auto=format&fit=crop"
+    },
+    {
+        "idAnimal": 4,
+        "nome": "Laia",
+        "idade": 4,
+        "raca": "Vira lata",
+        "especie": "Gato",
+        "cor": "preta",
+        "sexo": "Femea",
+        "porte": "Pequeno",
+        "imagem": "teste"
+    },
+    {
+        "idAnimal": 5,
+        "nome": "Laia",
+        "idade": 4,
+        "raca": "Vira lata",
+        "especie": "gato",
+        "cor": "preta",
+        "sexo": "Femea",
+        "porte": "Pequeno",
+        "imagem": "teste"
+    },
+    {
+        "idAnimal": 6,
+        "nome": "Laia",
+        "idade": 4,
+        "raca": "Vira lata",
+        "especie": "Gato",
+        "cor": "preta",
+        "sexo": "Masculino",
+        "porte": "Pequeno",
+        "imagem": "teste"
+    },
+    {
+        "idAnimal": 10,
+        "nome": "Rex",
+        "idade": 3,
+        "especie": "cachorro",
+        "raca": "Vira lata",
+        "sexo": "masculino",
+        "porte": "Medio",
+        "cor": "Amarelo"
+    }
+]

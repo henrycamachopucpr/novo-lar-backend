@@ -1,0 +1,57 @@
+
+[
+    {
+        "idUsuario": 1,
+        "nome": "Jaodmoita",
+        "idade": 20,
+        "sexo": "Masculino",
+        "email": "joao@gmail.com",
+        "telefone": "45999999999",
+        "endereco": "Rua Magalhaes 752"
+    },
+    {
+        "idUsuario": 3,
+        "nome": "Joson",
+        "idade": 17,
+        "sexo": "Masculino",
+        "email": "@dsadsa",
+        "telefone": "45999999999",
+        "endereco": "Rua Macarrao 23"
+    },
+    {
+        "idUsuario": 3,
+        "nome": "Jonson",
+        "idade": 17,
+        "sexo": "Masculino",
+        "email": "@dsadsa",
+        "telefone": "45999999999",
+        "endereco": "Rua Macarrao 23"
+    },
+    {
+        "idUsuario": 4,
+        "nome": "Joson",
+        "idade": 17,
+        "sexo": "Masculino",
+        "email": "@awdawdaawdawdawdada",
+        "telefone": "test",
+        "endereco": "Rua Macarrao 23"
+    },
+    {
+        "idUsuario": 5,
+        "nome": "Joson",
+        "idade": 17,
+        "sexo": "masculino",
+        "email": "@awdawdaawdawdawdada",
+        "telefone": "test",
+        "endereco": "Rua Macarrao 23"
+    },
+    {
+        "idUsuario": 10,
+        "nome": "Maria",
+        "idade": 25,
+        "sexo": "feminino",
+        "email": "maria@gmail.com",
+        "telefone": "45999999999",
+        "endereco": "Rua das Flores 10"
+    }
+]

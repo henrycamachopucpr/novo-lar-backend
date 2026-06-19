@@ -1,0 +1,30 @@
+[
+    {
+        "idAdocao": 1,
+        "idAnimal": 2,
+        "idDestinatario": 1,
+        "dataDoacao": "12/03/2026",
+        "endereco": "Rua Magalhaes 752"
+    },
+    {
+        "idAdocao": 2,
+        "idAnimal": 3,
+        "idDestinatario": 2,
+        "dataDoacao": "12/03/2026",
+        "endereco": "Rua Luoa 123"
+    },
+    {
+        "idAdocao": 3,
+        "idAnimal": 1,
+        "idDestinatario": 3,
+        "dataDoacao": "12/03/2026",
+        "endereco": "Rua Macarrao 23"
+    },
+    {
+        "idAdocao": 10,
+        "idAnimal": 1,
+        "idDestinatario": 1,
+        "dataDoacao": "25/05/2026",
+        "endereco": "Rua das Flores 10"
+    }
+]

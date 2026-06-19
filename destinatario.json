@@ -1,0 +1,34 @@
+[
+    {
+        "idDestinatario": 1,
+        "nome": "Marquinhos",
+        "idade": 20,
+        "sexo": "Masculino",
+        "email": "dsadsa@gmail.com",
+        "endereco": "Rua Magalhaes 752"
+    },
+    {
+        "idDestinatario": 2,
+        "nome": "Sebastian",
+        "idade": 19,
+        "sexo": "Masculino",
+        "email": "lucas@sadsa.com",
+        "endereco": "Rua Luoa 123"
+    },
+    {
+        "idDestinatario": 3,
+        "nome": "Marcos",
+        "idade": 20,
+        "sexo": "Masculino",
+        "email": "rostos@gmail.com",
+        "endereco": "Rua Macarrao 23"
+    },
+    {
+        "idDestinatario": 10,
+        "nome": "Ana Lima",
+        "idade": 22,
+        "sexo": "feminino",
+        "email": "ana@gmail.com",
+        "endereco": "Rua do Sol 99"
+    }
+]
