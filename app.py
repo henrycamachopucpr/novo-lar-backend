@@ -50,10 +50,8 @@ def get_animais_filtro():
 
         resultado.append(dado)
 
-    if not resultado:    
-        return jsonify({"mensagem": "Nenhum animal encontrado com os filtros fornecidos."}), 404
-    
     return jsonify(resultado), 200
+
 
 @app.get('/filtros/usuarios')
 def get_usuarios_filtro():
@@ -94,10 +92,8 @@ def get_usuarios_filtro():
 
         resultado.append(dado)
 
-    if not resultado:    
-        return jsonify({"mensagem": "Nenhum usuario encontrado com os filtros fornecidos."}), 404
-    
-    return jsonify(resultado),200
+    return jsonify(resultado), 200
+
 
 @app.get('/filtros/cidade')
 def get_cidade_filtro():
@@ -122,11 +118,9 @@ def get_cidade_filtro():
             continue
 
         resultado.append(dado)
-        
-    if not resultado:    
-        return jsonify({"mensagem": "Nenhuma cidade encontrado com os filtros fornecidos."}), 404
-    
+
     return jsonify(resultado), 200
+
 
 @app.get('/filtros/doadores')
 def get_doadores_filtro():
@@ -163,11 +157,9 @@ def get_doadores_filtro():
             continue
 
         resultado.append(dado)
-        
-    if not resultado:    
-        return jsonify({"mensagem": "Nenhum doador encontrado com os filtros fornecidos."}), 404
-    
+
     return jsonify(resultado), 200
+
 
 @app.get('/filtros/destinatarios')
 def get_destinatarios_filtro():
@@ -208,10 +200,8 @@ def get_destinatarios_filtro():
 
         resultado.append(dado)
 
-    if not resultado:    
-        return jsonify({"mensagem": "Nenhum um destinatário encontrado com os filtros fornecidos."}), 404
-    
     return jsonify(resultado), 200
+
 
 @app.get('/filtros/adocoes')
 def get_adocoes_filtro():
@@ -246,10 +236,7 @@ def get_adocoes_filtro():
             continue
 
         resultado.append(dado)
-        
-    if not resultado:    
-        return jsonify({"mensagem": "Nenhuma adoção encontrado com os filtros fornecidos."}), 404
-    
+
     return jsonify(resultado), 200
 
 def carregar_usuarios():  
